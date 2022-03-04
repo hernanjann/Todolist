@@ -1,0 +1,9 @@
+$black-color: #000;
+$white-color: #fff;
+
+*{
+ font-family:Verdana;
+ background-color: pink;
+}
+
+@import './todolist.scss';
